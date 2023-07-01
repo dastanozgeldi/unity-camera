@@ -106,3 +106,11 @@ User has lost focus from 01.07.2023 - 18:46:21 to 18:46:22
 User has lost focus from 01.07.2023 - 18:46:24 to 18:47:49
 User has lost focus from 01.07.2023 - 18:48:13 to 18:48:21
 User has lost focus from 01.07.2023 - 18:48:26 to 18:48:32
+User has lost focus from 02.07.2023 - 02:19:10 to 02:19:11
+User has lost focus from 02.07.2023 - 02:24:48 to 02:24:48
+User has lost focus from 02.07.2023 - 02:25:26 to 02:25:26
+User has lost focus from 02.07.2023 - 02:28:58 to 02:28:59
+User has lost focus from 02.07.2023 - 02:30:15 to 02:30:15
+User has lost focus from 02.07.2023 - 02:31:15 to 02:31:16
+User has lost focus from 02.07.2023 - 02:31:55 to 02:32:01
+User has lost focus from 02.07.2023 - 02:34:04 to 02:34:04

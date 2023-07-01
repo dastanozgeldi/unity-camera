@@ -1,3 +1,4 @@
+import requests
 import cv2
 import numpy as np
 import pygame
@@ -39,14 +40,24 @@ def warn(img):
         (255, 255, 255),
         4,
     )
-    cv2.imshow("Unity ADHD Detection", img)
+    cv2.imshow("Unity ADHD Detection Camera", img)
     cv2.waitKey(1)
+
+    # Call the database to add distraction instance
+    response = requests.post(
+        "http://127.0.0.1:8000/dashboard/add_distraction/",
+        params={"name": "Dastan Özgeldi"},
+    )
+
+    if response.status_code == 200:
+        print("Request inserted into database successfully")
+    else:
+        print("Request failed with status code:", response.status_code)
 
     # Play warning sound
     pygame.mixer.Sound.play(warning)
 
     # Record when the user first loses focus into log.txt
-    # TODO: integrate with Django backend and add record to database
     now = datetime.now()
     cur_time = now.strftime("%d.%m.%Y - %H:%M:%S")
 

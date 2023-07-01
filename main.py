@@ -5,6 +5,8 @@ import time
 from datetime import datetime
 from util import calculate_center, eye_direction, warn
 
+TITLE = "Unity ADHD Detection Camera"
+
 # Coordinates for both eyes
 LEFT_EYE = [
     362,
@@ -136,11 +138,11 @@ while True:
                 warn(img)
                 warned = True
 
-    cv2.imshow("Unity ADHD Detection", img)
+    cv2.imshow(TITLE, img)
     cv2.waitKey(1)
 
     # Click the close button to close window
-    if cv2.getWindowProperty("Unity ADHD Detection", cv2.WND_PROP_VISIBLE) < 1:
+    if cv2.getWindowProperty(TITLE, cv2.WND_PROP_VISIBLE) < 1:
         break
 
 cap.release()
