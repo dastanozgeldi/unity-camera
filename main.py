@@ -3,55 +3,12 @@ import mediapipe as mp
 import numpy as np
 import time
 from datetime import datetime
+from constants import *
 from util import calculate_center, eye_direction, warn
-
-TITLE = "Unity ADHD Detection Camera"
-
-# Coordinates for both eyes
-LEFT_EYE = [
-    362,
-    382,
-    381,
-    380,
-    374,
-    373,
-    390,
-    249,
-    263,
-    466,
-    388,
-    387,
-    386,
-    385,
-    384,
-    398,
-]
-RIGHT_EYE = [
-    33,
-    7,
-    163,
-    144,
-    145,
-    153,
-    154,
-    155,
-    133,
-    173,
-    157,
-    158,
-    159,
-    160,
-    161,
-    246,
-]
-
-# Coordinates for the left and right iris
-LEFT_IRIS = [474, 475, 476, 477]
-RIGHT_IRIS = [469, 470, 471, 472]
 
 mpFace = mp.solutions.face_mesh
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(2)
 
 face_mesh = mpFace.FaceMesh(
     max_num_faces=1,
@@ -127,7 +84,7 @@ while True:
         elif direction != "CENTER" and not warned:
             t2 = time.time()
             if t2 - t1 > 2:
-                warn(img)
+                warn(img, USER_NAME)
                 warned = True
 
     # If face is off the screen for longer than 2 seconds it will warn the user
@@ -135,14 +92,14 @@ while True:
         if not warned:
             t2 = time.time()
             if t2 - t1 > 2:
-                warn(img)
+                warn(img, USER_NAME)
                 warned = True
 
-    cv2.imshow(TITLE, img)
+    cv2.imshow(WINDOW_TITLE, img)
     cv2.waitKey(1)
 
     # Click the close button to close window
-    if cv2.getWindowProperty(TITLE, cv2.WND_PROP_VISIBLE) < 1:
+    if cv2.getWindowProperty(WINDOW_TITLE, cv2.WND_PROP_VISIBLE) < 1:
         break
 
 cap.release()

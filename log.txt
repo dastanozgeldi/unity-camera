@@ -1,126 +1,111 @@
-User has lost focus from 12:34:02 to 12:34:03
-User has lost focus from 12:34:08 to 12:34:09
-User has lost focus from 12:34:28 to 12:34:32
-User has lost focus from 12:34:42 to 12:34:44
-User has lost focus from 12:34:50 to 12:34:53
-User has lost focus from 12:35:03 to 12:35:03
-User has lost focus from 12:36:03 to 12:36:05
-User has lost focus from 12:36:25 to 12:36:26
-User has lost focus from 12:36:37 to 12:36:38
-User has lost focus from 12:36:44 to 12:36:45
-User has lost focus from 12:37:03 to 12:37:05
-User has lost focus from 12:37:19 to 12:37:25
-User has lost focus from 12:42:05 to 12:42:08
-User has lost focus from 12:42:16 to 12:42:16
-User has lost focus from 12:42:28 to 12:42:31
-User has lost focus from 12:43:06 to 12:43:10
-User has lost focus from 12:43:15 to 12:43:17
-User has lost focus from 12:44:38 to 12:44:39
-User has lost focus from 12:49:20 to 12:49:22
-User has lost focus from 12:49:35 to 12:49:36
-User has lost focus from 12:49:43 to 12:49:45
-User has lost focus from 12:49:48 to 12:49:58
-User has lost focus from 12:50:03 to 12:50:04
-User has lost focus from 12:52:33 to 12:52:34
-User has lost focus from 12:52:36 to 12:52:36
-User has lost focus from 12:52:41 to 12:52:42
-User has lost focus from 12:52:59 to 12:53:00
-User has lost focus from 12:53:16 to 12:53:17
-User has lost focus from 12:53:40 to 12:53:41
-User has lost focus from 12:57:53 to 12:57:55
-User has lost focus from 12:57:59 to 12:58:00
-User has lost focus from 12:58:24 to 12:58:24
-User has lost focus from 13:07:28 to 13:07:29
-User has lost focus from 13:07:44 to 13:07:49
-User has lost focus from 13:07:52 to 13:07:57
-User has lost focus from 13:08:19 to 13:08:21
-User has lost focus from 13:08:26 to 13:08:26
-User has lost focus from 30.04.2023 - 16:15:57 to 16:15:58
-User has lost focus from 30.04.2023 - 16:16:30 to 16:16:31
-User has lost focus from 30.04.2023 - 16:17:36 to User has lost focus from 30.04.2023 - 16:17:54 to 16:17:54
-User has lost focus from 30.04.2023 - 16:17:56 to 16:17:57
-User has lost focus from 30.04.2023 - 16:19:39 to 16:19:40
-User has lost focus from 30.04.2023 - 16:19:42 to 16:19:43
-User has lost focus from 30.04.2023 - 16:23:27 to 16:23:28
-User has lost focus from 30.04.2023 - 16:24:08 to 16:24:08
-User has lost focus from 30.04.2023 - 16:32:02 to 16:32:04
-User has lost focus from 30.04.2023 - 16:32:11 to 16:32:12
-User has lost focus from 30.04.2023 - 16:32:22 to 16:32:25
-User has lost focus from 30.04.2023 - 16:32:31 to 16:32:31
-User has lost focus from 30.04.2023 - 16:32:38 to 16:32:39
-User has lost focus from 30.04.2023 - 16:32:44 to 16:32:45
-User has lost focus from 30.04.2023 - 16:32:49 to 16:32:50
-User has lost focus from 30.04.2023 - 16:51:47 to User has lost focus from 30.04.2023 - 17:24:07 to 17:24:07
-User has lost focus from 30.04.2023 - 17:24:20 to 17:24:22
-User has lost focus from 01.05.2023 - 23:20:40 to 23:20:42
-User has lost focus from 01.07.2023 - 17:13:34 to User has lost focus from 01.07.2023 - 17:16:49 to 17:16:58
-User has lost focus from 01.07.2023 - 17:17:05 to 17:17:07
-User has lost focus from 01.07.2023 - 17:17:09 to 17:17:11
-User has lost focus from 01.07.2023 - 17:17:13 to 17:17:15
-User has lost focus from 01.07.2023 - 17:17:19 to 17:17:26
-User has lost focus from 01.07.2023 - 17:17:29 to 17:17:34
-User has lost focus from 01.07.2023 - 17:17:36 to 17:17:39
-User has lost focus from 01.07.2023 - 17:17:42 to 17:18:09
-User has lost focus from 01.07.2023 - 17:18:12 to 17:18:16
-User has lost focus from 01.07.2023 - 17:18:18 to 17:18:21
-User has lost focus from 01.07.2023 - 17:18:23 to 17:18:29
-User has lost focus from 01.07.2023 - 17:18:42 to 17:18:57
-User has lost focus from 01.07.2023 - 17:19:01 to 17:19:02
-User has lost focus from 01.07.2023 - 17:19:05 to User has lost focus from 01.07.2023 - 17:33:31 to 17:33:32
-User has lost focus from 01.07.2023 - 18:39:06 to 18:39:07
-User has lost focus from 01.07.2023 - 18:39:13 to 18:39:13
-User has lost focus from 01.07.2023 - 18:39:17 to 18:39:18
-User has lost focus from 01.07.2023 - 18:39:21 to 18:39:22
-User has lost focus from 01.07.2023 - 18:39:29 to 18:39:29
-User has lost focus from 01.07.2023 - 18:39:37 to 18:39:38
-User has lost focus from 01.07.2023 - 18:39:49 to 18:39:50
-User has lost focus from 01.07.2023 - 18:39:53 to 18:39:53
-User has lost focus from 01.07.2023 - 18:39:55 to 18:39:55
-User has lost focus from 01.07.2023 - 18:40:22 to 18:40:24
-User has lost focus from 01.07.2023 - 18:41:16 to 18:41:17
-User has lost focus from 01.07.2023 - 18:41:20 to 18:41:23
-User has lost focus from 01.07.2023 - 18:41:29 to 18:41:30
-User has lost focus from 01.07.2023 - 18:41:33 to 18:41:34
-User has lost focus from 01.07.2023 - 18:41:44 to 18:41:44
-User has lost focus from 01.07.2023 - 18:41:48 to 18:41:53
-User has lost focus from 01.07.2023 - 18:41:57 to 18:42:00
-User has lost focus from 01.07.2023 - 18:42:26 to 18:42:29
-User has lost focus from 01.07.2023 - 18:42:32 to 18:42:35
-User has lost focus from 01.07.2023 - 18:42:41 to 18:42:47
-User has lost focus from 01.07.2023 - 18:42:50 to 18:43:03
-User has lost focus from 01.07.2023 - 18:43:06 to 18:43:32
-User has lost focus from 01.07.2023 - 18:43:36 to 18:43:37
-User has lost focus from 01.07.2023 - 18:43:40 to 18:43:41
-User has lost focus from 01.07.2023 - 18:43:45 to 18:43:46
-User has lost focus from 01.07.2023 - 18:43:51 to 18:43:54
-User has lost focus from 01.07.2023 - 18:44:07 to 18:44:07
-User has lost focus from 01.07.2023 - 18:44:12 to 18:44:13
-User has lost focus from 01.07.2023 - 18:44:26 to 18:44:27
-User has lost focus from 01.07.2023 - 18:44:30 to 18:44:31
-User has lost focus from 01.07.2023 - 18:44:34 to 18:44:36
-User has lost focus from 01.07.2023 - 18:44:44 to 18:44:47
-User has lost focus from 01.07.2023 - 18:45:28 to 18:45:29
-User has lost focus from 01.07.2023 - 18:45:32 to 18:45:33
-User has lost focus from 01.07.2023 - 18:46:11 to 18:46:12
-User has lost focus from 01.07.2023 - 18:46:21 to 18:46:22
-User has lost focus from 01.07.2023 - 18:46:24 to 18:47:49
-User has lost focus from 01.07.2023 - 18:48:13 to 18:48:21
-User has lost focus from 01.07.2023 - 18:48:26 to 18:48:32
-User has lost focus from 02.07.2023 - 02:19:10 to 02:19:11
-User has lost focus from 02.07.2023 - 02:24:48 to 02:24:48
-User has lost focus from 02.07.2023 - 02:25:26 to 02:25:26
-User has lost focus from 02.07.2023 - 02:28:58 to 02:28:59
-User has lost focus from 02.07.2023 - 02:30:15 to 02:30:15
-User has lost focus from 02.07.2023 - 02:31:15 to 02:31:16
-User has lost focus from 02.07.2023 - 02:31:55 to 02:32:01
-User has lost focus from 02.07.2023 - 02:34:04 to 02:34:04
-User has lost focus from 02.07.2023 - 02:52:56 to 02:52:58
-User has lost focus from 02.07.2023 - 02:53:29 to 02:53:32
-User has lost focus from 02.07.2023 - 08:36:11 to 08:36:12
-User has lost focus from 02.07.2023 - 08:36:58 to 08:37:00
-User has lost focus from 02.07.2023 - 08:47:55 to 08:47:56
-User has lost focus from 02.07.2023 - 08:48:44 to 08:48:44
-User has lost focus from 02.07.2023 - 08:48:52 to 08:48:54
-User has lost focus from 02.07.2023 - 08:48:59 to 08:48:59
-User has lost focus from 02.07.2023 - 08:49:17 to 08:49:18
-User has lost focus from 02.07.2023 - 08:49:27 to 08:49:28
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:05 to 17:17:07
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:09 to 17:17:11
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:13 to 17:17:15
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:19 to 17:17:26
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:29 to 17:17:34
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:36 to 17:17:39
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:17:42 to 17:18:09
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:18:12 to 17:18:16
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:18:18 to 17:18:21
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:18:23 to 17:18:29
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:18:42 to 17:18:57
+Dastan Özgeldi has lost focus from 01.07.2023 - 17:19:01 to 17:19:02
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:06 to 18:39:07
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:13 to 18:39:13
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:17 to 18:39:18
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:21 to 18:39:22
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:29 to 18:39:29
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:37 to 18:39:38
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:49 to 18:39:50
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:53 to 18:39:53
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:39:55 to 18:39:55
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:40:22 to 18:40:24
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:16 to 18:41:17
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:20 to 18:41:23
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:29 to 18:41:30
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:33 to 18:41:34
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:44 to 18:41:44
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:48 to 18:41:53
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:41:57 to 18:42:00
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:42:26 to 18:42:29
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:42:32 to 18:42:35
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:42:41 to 18:42:47
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:42:50 to 18:43:03
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:43:06 to 18:43:32
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:43:36 to 18:43:37
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:43:40 to 18:43:41
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:43:45 to 18:43:46
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:43:51 to 18:43:54
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:07 to 18:44:07
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:12 to 18:44:13
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:26 to 18:44:27
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:30 to 18:44:31
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:34 to 18:44:36
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:44:44 to 18:44:47
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:45:28 to 18:45:29
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:45:32 to 18:45:33
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:46:11 to 18:46:12
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:46:21 to 18:46:22
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:46:24 to 18:47:49
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:48:13 to 18:48:21
+Dastan Özgeldi has lost focus from 01.07.2023 - 18:48:26 to 18:48:32
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:19:10 to 02:19:11
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:24:48 to 02:24:48
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:25:26 to 02:25:26
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:28:58 to 02:28:59
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:30:15 to 02:30:15
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:31:15 to 02:31:16
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:31:55 to 02:32:01
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:34:04 to 02:34:04
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:52:56 to 02:52:58
+Dastan Özgeldi has lost focus from 02.07.2023 - 02:53:29 to 02:53:32
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:36:11 to 08:36:12
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:36:58 to 08:37:00
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:47:55 to 08:47:56
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:48:44 to 08:48:44
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:48:52 to 08:48:54
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:48:59 to 08:48:59
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:49:17 to 08:49:18
+Dastan Özgeldi has lost focus from 02.07.2023 - 08:49:27 to 08:49:28
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:19:56 to 11:22:51
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:22:59 to 11:23:00
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:23:07 to 11:23:10
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:24:04 to 11:24:05
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:24:15 to 11:24:16
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:25:03 to 11:25:05
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:25:23 to 11:25:24
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:26:04 to 11:26:05
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:26:27 to 11:26:28
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:26:59 to 11:27:03
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:27:47 to 11:27:53
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:28:10 to 11:28:18
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:28:21 to 11:29:01
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:29:04 to 11:29:06
+Dastan Özgeldi has lost focus from 02.07.2023 - 11:29:09 to 11:29:12
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:17:20 to 12:17:21
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:17:26 to 12:17:27
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:17:32 to 12:17:33
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:17:43 to 12:17:45
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:17:52 to 12:17:53
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:18:02 to 12:18:02
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:18:09 to 12:18:09
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:19:32 to 12:19:35
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:19:46 to 12:20:06
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:20:33 to 12:20:34
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:20:37 to 12:20:38
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:20:41 to 12:20:46
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:21:05 to 12:21:10
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:21:33 to 12:21:36
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:21:41 to 12:21:42
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:22:29 to 12:22:29
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:23:06 to 12:23:08
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:23:39 to 12:23:51
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:24:29 to 12:24:30
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:26:25 to 12:26:30
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:26:34 to 12:26:35
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:26:38 to 12:26:38
+Dastan Özgeldi has lost focus from 02.07.2023 - 12:26:46 to 12:26:46
+Dastan Özgeldi has lost focus from 02.07.2023 - 15:02:27 to 15:02:28
+Dastan Özgeldi has lost focus from 02.07.2023 - 15:07:01 to 15:07:03
+Dastan Özgeldi has lost focus from 02.07.2023 - 15:07:07 to 15:07:07
+Dastan Özgeldi has lost focus from 02.07.2023 - 15:07:10 to 15:07:11

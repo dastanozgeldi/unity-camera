@@ -4,6 +4,8 @@ import numpy as np
 import pygame
 from datetime import datetime
 
+from constants import *
+
 pygame.init()
 warning = pygame.mixer.Sound("warning.wav")
 
@@ -28,7 +30,7 @@ def eye_direction(iris_center, eye_center):
         return "TURN RIGHT"
 
 
-def warn(img):
+def warn(img, user_name: str = USER_NAME):
     h, w, c = img.shape
     cv2.rectangle(img, (0, 0), (w, h), (0, 0, 255), -1)
     cv2.putText(
@@ -40,13 +42,13 @@ def warn(img):
         (255, 255, 255),
         4,
     )
-    cv2.imshow("Unity ADHD Detection Camera", img)
+    cv2.imshow(WINDOW_TITLE, img)
     cv2.waitKey(1)
 
     # Call the database to add distraction instance
     response = requests.post(
         "http://127.0.0.1:8000/dashboard/add_distraction/",
-        params={"name": "Dastan Özgeldi"},
+        params={"name": user_name},
     )
 
     if response.status_code == 200:
@@ -62,4 +64,4 @@ def warn(img):
     cur_time = now.strftime("%d.%m.%Y - %H:%M:%S")
 
     with open("log.txt", "a") as f:
-        f.write("User has lost focus from " + cur_time + " to ")
+        f.write(f"{user_name} has lost focus from {cur_time} to ")
