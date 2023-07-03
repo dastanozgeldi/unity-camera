@@ -8,7 +8,7 @@ from util import calculate_center, eye_direction, warn
 
 mpFace = mp.solutions.face_mesh
 
-cap = cv2.VideoCapture(2)
+cap = cv2.VideoCapture(1)
 
 face_mesh = mpFace.FaceMesh(
     max_num_faces=1,
